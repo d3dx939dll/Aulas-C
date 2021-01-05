@@ -2,7 +2,7 @@
 Autor: @d3dx939dll
 Data: 15/12/2020
 Aula De Hoje: For
-Grupo: Heikoa
+Grupo: reddit.com/r/Heikoa
 */
 #include <stdio.h>
 
